@@ -180,9 +180,16 @@
  .div-100{
     width: 420px;
     height: 400px;
+    
  }
  .img-30:hover{
      width: 600px;
      height: 600px;
      
  }
+ .para-200{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ div-101{
+    margin-top: 10px;}
